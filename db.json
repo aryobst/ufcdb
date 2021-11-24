@@ -1,0 +1,59 @@
+{"champions": [
+    {
+      "titleCust": "BRANDON MORENO",
+      "id": 1,
+      "rate": 8,
+      "genreCust": "FLYWEIGHT CHAMPION",
+      "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-06/MORENO_BRANDON_06-12_BELT.png?VersionId=null&itok=wqmKmR4F"
+    },
+    {
+      "titleCust": "ALJAMAIN STERLING",
+      "id": 2,
+      "rate": 8,
+      "genreCust": "BANTAMWEIGHT CHAMPION",
+      "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-08/67275%252Fprofile-galery%252Fprofile-picture%252FSTERLING_ALJAMAIN_BELT.png?itok=8AJsTCoT"
+    },
+    {
+      "titleCust": "ALEXANDER VOLKANOVSKI",
+      "id": 3,
+      "rate": 8,
+      "genreCust": "FEATHERWEIGHT CHAMPION",
+      "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-09/67233%252Fprofile-galery%252Fprofile-picture%252FVOLKANOVSKI_ALEXANDER_BELT_09-25.png?itok=ws7CU2gT"
+    },
+    {
+      "titleCust": "CHARLES OLIVEIRA",
+      "id": 4,
+      "rate": 8,
+      "genreCust": "LIGHTWEIGHT CHAMPION",
+      "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-06/67583%252Fprofile-galery%252Fprofile-picture%252FOLIVEIRA_CHARLES_BeltMock.png?VersionId=null&itok=d-4Qd-4y"
+    },
+    {
+      "titleCust": "KAMARU USMAN",
+      "id": 5,
+      "rate": 8,
+      "genreCust": "WELTERWEIGHT CHAMPION",
+      "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-04/68441%252Fprofile-galery%252Fprofile-picture%252FUSMAN_KAMARU_BELT_04-24.png?VersionId=null&itok=ygbE556I"
+    },
+    {
+      "titleCust": "ISRAEL ADESANYA",
+      "id": 6,
+      "rate": 8,
+      "genreCust": "MIDDLEWEIGHT CHAMPION",
+      "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-03/68129%252Fprofile-galery%252Fprofile-picture%252FADESANYA_ISRAEL_BELT_03-06.png?VersionId=null&itok=dd9-3zDu"
+    },
+    {
+      "titleCust": "GLOVER TEIXEIRA",
+      "id": 7,
+      "rate": 8,
+      "genreCust": "LIGHT HEAVYWEIGHT CHAMPION",
+      "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-10/68036%252Fprofile-galery%252Fprofile-picture%252FTEIXEIRA_GLOVER_10-30.png?itok=KueMqvEh"
+    },
+    {
+      "titleCust": "FRANCIS NGANNOU",
+      "id": 4,
+      "rate": 8,
+      "genreCust": "HEAVYWEIGHT CHAMPION",
+      "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-04/67964%252Fprofile-galery%252Fprofile-picture%252FNGANNOU_FRANCIS_BELT.png?VersionId=null&itok=g4LYm2hq"
+    }
+  ]
+}
