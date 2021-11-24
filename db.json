@@ -55,5 +55,59 @@
       "genreCust": "HEAVYWEIGHT CHAMPION",
       "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-04/67964%252Fprofile-galery%252Fprofile-picture%252FNGANNOU_FRANCIS_BELT.png?VersionId=null&itok=g4LYm2hq"
     }
-  ]
+  ],
+"poster": [
+    {
+        "title": "UFC 267 | FIGHT MOTION",
+        "id": 1,
+        "rate": 4,
+        "genre": "Fight Motion for UFC 267: Blachowicz vs Teixeira",
+        "img": "https://cdn.vox-cdn.com/thumbor/5x9061ImrqGCGJ1gIPohYGnoClg=/0x0:5226x3484/1200x800/filters:focal(2217x945:3053x1781)/cdn.vox-cdn.com/uploads/chorus_image/image/70068362/1350292185.0.jpg"
+      },
+      {
+        "title": "UFC 234 | HIGHLIGHTS",
+        "id": 2,
+        "rate": 4,
+        "genre": "Fight Highlights of UFC 234: Adesanya vs Silva ",
+        "img": "https://asset-a.grid.id/crop/9x75:2031x1247/700x465/photo/2019/02/10/1391607090.jpg"
+      },
+      {
+        "title": "UFC 229 | STATS",
+        "id": 3,
+        "rate": 4,
+        "genre": "Fight stats of UFC 229: Nurmagomedov vs McGregor",
+        "img": "https://www.gannett-cdn.com/presto/2018/10/07/USAT/fa0f4771-8827-4725-b8d2-2f15698db3a2-2018-10-06_Khabib-Conor1.jpg?crop=3119,2394,x1641,y624"
+      },
+      {
+        "title": "UFC 1 | THE BEGINNING",
+        "id": 4,
+        "rate": 4,
+        "genre": "UFC 1: GRACIE vs GORDEAU (THE DAY FIGHTING CHANGED FOREVER)",
+        "img": "https://staticg.sportskeeda.com/editor/2020/01/fe8c3-15796343089943-800.jpg"
+      }
+],
+"data": [
+    {
+        "title": "ADRIAN YANEZ POST-FIGHT INTERVIEW",
+        "id": 1,
+        "rate": 4,
+        "genre": "INTERVIEW",
+        "img": "https://www.ufc.com/s3/files/styles/card/s3/2021-11/112021-ufc-fight-night-tate-vs-vieira-ufc-vegas-43-yanez-post-fight.jpg?h=56d0ca2e&itok=fqagup-L"
+      },
+      {
+        "title": "PAT SABATANI POST-FIGHT INTERVIEW",
+        "id": 2,
+        "rate": 4,
+        "genre": "INTERVIEW",
+        "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/2021-11/112021-ufc-fight-night-tate-vs-vieira-ufc-vegas-43-sabatini-post-fight.jpg?h=56d0ca2e&itok=QsviOlcW"
+      },
+      {
+        "title": "CODY DURDEN POST-FIGHT INTERVIEW",
+        "id": 3,
+        "rate": 4,
+        "genre": "INTERVIEW",
+        "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/2021-11/112021-ufc-fight-night-tate-vs-vieira-ufc-vegas-43-durden-post-fight.jpg?h=56d0ca2e&itok=SJltOhGY"
+      }
+
+]
 }
