@@ -2,55 +2,55 @@
     {
       "titleCust": "BRANDON MORENO",
       "id": 1,
-      "rate": 8,
+      "rate": 4,
       "genreCust": "FLYWEIGHT CHAMPION",
       "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-06/MORENO_BRANDON_06-12_BELT.png?VersionId=null&itok=wqmKmR4F",
       "description": "Brandon Carrillo Moreno (born December 7, 1993) is a Mexican professional mixed martial artist who currently competes in the flyweight division of the Ultimate Fighting Championship (UFC), where he is the reigning UFC Flyweight Champion, and in the process became the first Mexican-born fighter to win a UFC championship."
     },
     {
       "titleCust": "ALJAMAIN STERLING",
-      "id": 2,
-      "rate": 8,
+      "id": 1,
+      "rate": 4,
       "genreCust": "BANTAMWEIGHT CHAMPION",
       "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-08/67275%252Fprofile-galery%252Fprofile-picture%252FSTERLING_ALJAMAIN_BELT.png?itok=8AJsTCoT",
       "description": "Aljamain Antoine Sterling (born July 31, 1989) is an American mixed martial artist. He is signed with the UFC, fighting in its bantamweight division and is the current UFC Bantamweight Champion."
     },
     {
       "titleCust": "ALEXANDER VOLKANOVSKI",
-      "id": 3,
-      "rate": 8,
+      "id": 2,
+      "rate": 4,
       "genreCust": "FEATHERWEIGHT CHAMPION",
       "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-09/67233%252Fprofile-galery%252Fprofile-picture%252FVOLKANOVSKI_ALEXANDER_BELT_09-25.png?itok=ws7CU2gT",
       "description": "Alexander Volkanovski (born 29 September 1988) is an Australian professional mixed martial artist, currently signed to the Ultimate Fighting Championship (UFC), where he is the current UFC Featherweight Champion."
     },
     {
       "titleCust": "CHARLES OLIVEIRA",
-      "id": 4,
-      "rate": 8,
+      "id": 2,
+      "rate": 4,
       "genreCust": "LIGHTWEIGHT CHAMPION",
       "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-06/67583%252Fprofile-galery%252Fprofile-picture%252FOLIVEIRA_CHARLES_BeltMock.png?VersionId=null&itok=d-4Qd-4y",
       "description": "Charles Oliveira da Silva (born October 17, 1989) is a Brazilian professional mixed martial artist. He currently competes in the Lightweight division of the Ultimate Fighting Championship (UFC), where he is the reigning UFC Lightweight Champion."
     },
     {
       "titleCust": "KAMARU USMAN",
-      "id": 5,
-      "rate": 8,
+      "id": 3,
+      "rate": 4,
       "genreCust": "WELTERWEIGHT CHAMPION",
       "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-04/68441%252Fprofile-galery%252Fprofile-picture%252FUSMAN_KAMARU_BELT_04-24.png?VersionId=null&itok=ygbE556I",
       "description": "Kamarudeen (Kamaru) Usman (born May 11, 1987) is a Nigerian-American professional mixed martial artist, former freestyle wrestler and graduated folkstyle wrestler. He currently competes in the welterweight division of the Ultimate Fighting Championship (UFC), where he is the reigning UFC Welterweight Champion."
     },
     {
       "titleCust": "ISRAEL ADESANYA",
-      "id": 6,
-      "rate": 8,
+      "id": 3,
+      "rate": 4,
       "genreCust": "MIDDLEWEIGHT CHAMPION",
       "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-03/68129%252Fprofile-galery%252Fprofile-picture%252FADESANYA_ISRAEL_BELT_03-06.png?VersionId=null&itok=dd9-3zDu",
       "description": "Israel Mobolaji Temitayo Odunayo Oluwafemi Owolabi Adesanya (born 22 July 1989) is a Nigerian-born New Zealand professional mixed martial artist, and former kickboxer and boxer. As a mixed martial artist, he is currently signed to the Ultimate Fighting Championship (UFC), where he is the UFC Middleweight Champion. In kickboxing, he is a former Glory Middleweight Championship title challenger."
     },
     {
       "titleCust": "GLOVER TEIXEIRA",
-      "id": 7,
-      "rate": 8,
+      "id": 4,
+      "rate": 4,
       "genreCust": "LIGHT HEAVYWEIGHT CHAMPION",
       "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-10/68036%252Fprofile-galery%252Fprofile-picture%252FTEIXEIRA_GLOVER_10-30.png?itok=KueMqvEh",
       "description": "Glover Lucas Teixeira (Portuguese pronunciation: [ˈɡloveʁ tejˈʃejɾɐ]; born 28 October 1979) is a Brazilian-American mixed martial artist currently competing in the Light heavyweight division of the Ultimate Fighting Championship and is the current UFC Light Heavyweight Champion. He is a former member of the Brazilian National Wrestling Team and has competed in the WEC, Impact FC, PFC, and Shooto. He is the second oldest UFC champion in history behind Randy Couture and the oldest first time champion in UFC history."
@@ -58,7 +58,7 @@
     {
       "titleCust": "FRANCIS NGANNOU",
       "id": 4,
-      "rate": 8,
+      "rate": 4,
       "genreCust": "HEAVYWEIGHT CHAMPION",
       "img": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-04/67964%252Fprofile-galery%252Fprofile-picture%252FNGANNOU_FRANCIS_BELT.png?VersionId=null&itok=g4LYm2hq",
       "description": "Francis Zavier Ngannou (born 5 September 1986) is a Cameroonian mixed martial artist. He currently competes in the heavyweight division for the Ultimate Fighting Championship (UFC), where he is the reigning UFC Heavyweight Champion. He is known for being the hardest recorded puncher in the world."
